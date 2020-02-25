@@ -252,6 +252,7 @@
     <Content Include="Views\Home\First.cshtml" />
     <Content Include="Views\Home\Second.cshtml" />
     <Content Include="Views\Home\Configure.cshtml" />
+    <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
